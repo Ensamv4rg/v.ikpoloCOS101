@@ -1,7 +1,7 @@
 fn main(){
-	println!("Welcome to COS 101!")
+	println!("Welcome to COS 101!");
 
-	println("The course learning outcome is as follows:")
+	println("The course learning outcome is as follows:");
 
 	println("1. Distinguish between computer programming, /n
 		2. Develop some tehcniques in computer science, /n
