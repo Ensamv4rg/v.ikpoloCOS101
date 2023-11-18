@@ -9,13 +9,13 @@ fn main() {
 
     println!("What would you like to eat?");
     println!("Use P for Poundo, F for Fried Rice, A for Amala, E for Eba, W for white rice");
-    println!("Type d when you're done");
+    println!("Type D when you're done");
     
     let mut cost:i32 = 0;
     loop{
         let mut choice = String::new();
         io::stdin().read_line(&mut choice).expect("Not a valid answer");
-        choice = choice;
+
         if choice.trim() == "P"{
             cost += 3200;
 
