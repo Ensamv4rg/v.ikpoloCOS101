@@ -17,7 +17,7 @@ fn main() {
         names.push(input(String::from(format!("What is employee {}'s name", x+1))));
         loop{
             office.push(input(String::from("What group does the employee fall under: Office Administrator, Academic, Lawyer, Teacher")));
-            if offices.contains(&office[index].to_lowercase()){
+            if offices.contains(&office[index].to_lowercase()){ //checks if the response is a valid response. 
             break;
         }else{
             println!("Invalid answer enetered. Offices available for now are Office Administrator, Academic, Lawyer and Teacher");
