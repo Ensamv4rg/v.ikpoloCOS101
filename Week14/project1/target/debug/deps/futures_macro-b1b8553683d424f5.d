@@ -1,0 +1,9 @@
+C:\Users\Ensamvarg\Documents\v.ikpoloCOS101\v.ikpoloCOS101\Week14\project1\target\debug\deps\futures_macro-b1b8553683d424f5.dll: C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\lib.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\executor.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\join.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\select.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\stream_select.rs
+
+C:\Users\Ensamvarg\Documents\v.ikpoloCOS101\v.ikpoloCOS101\Week14\project1\target\debug\deps\futures_macro-b1b8553683d424f5.d: C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\lib.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\executor.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\join.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\select.rs C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\stream_select.rs
+
+C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\lib.rs:
+C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\executor.rs:
+C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\join.rs:
+C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\select.rs:
+C:\Users\Ensamvarg\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.30\src\stream_select.rs:
